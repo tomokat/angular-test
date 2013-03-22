@@ -1,0 +1,37 @@
+.centerText {
+	text-align: center;
+}
+
+.selectBuddyImageClass {
+	display: block;   
+	margin-left: auto;
+	margin-right: auto;
+	height: 156px;
+	width: 156px;
+	background: url(../images/coffeescript_logo.png) no-repeat;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.manageOrderItemImageClass {
+	display: block;   
+	margin-left: auto;
+	margin-right: auto;
+	height: 156px;
+	width: 156px;
+	background: url(../images/order_item.png) no-repeat;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.user-active-true {
+	color: black;
+}
+
+.user-active-false {
+	color: gray;
+}
